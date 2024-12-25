@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60733c19-bca9-4793-b29d-8a392f6d2cdf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../jbbc-applications/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jbbc-applications/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jbbc-applications/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jbbc-applications/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jbbc-applications/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jbbc-applications/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xwork/jdbc/runner/CollegeRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Constructor-Chaining/src/com/xwork/constructor/MetroTrain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Constructor-Chaining/src/com/xwork/constructor/MetroTrain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Constructor-Chaining/src/com/xwork/constructor/SubUrbanTrain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Constructor-Chaining/src/com/xwork/constructor/SubUrbanTrain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/src/com/xwork/java/BlockRunner/GunRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/BlockRunner/GunRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/src/com/xwork/java/Final/MetroTrain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/Final/MetroTrain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/src/com/xwork/java/Final/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/Final/Owner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/src/com/xwork/java/Final/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/Final/Train.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/src/com/xwork/java/FinalRunner/SweetRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/FinalRunner/SweetRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/src/com/xwork/java/chaining/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/chaining/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/src/com/xwork/java/chaining/CountryRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/chaining/CountryRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/src/com/xwork/java/chaining/District.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/chaining/District.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/src/com/xwork/java/chaining/DistrictRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/chaining/DistrictRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/src/com/xwork/java/chaining/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/chaining/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Casting-example/src/com/xwork/java/external/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Casting-example/src/com/xwork/java/external/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToString-and-Equals/src/com/xworkz/tostringequals/Internal/Kettle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ToString-and-Equals/src/com/xworkz/tostringequals/Internal/Kettle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calender-app/src/com/xworkz/calanderapp/event/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/../calender-app/src/com/xworkz/calanderapp/event/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection-structure/.idea/collection-structure.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections-structure/src/com/xwork/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collections-structure/src/com/xwork/runner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com-abstraction-interfaces/src/Runner/CricketRuleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com-abstraction-interfaces/src/Runner/CricketRuleRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com-customException-example/src/com/xwork/method/stringRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com-customException-example/src/com/xwork/method/stringRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com-example-interface/src/com/xwork/java/Runner/VehicleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com-example-interface/src/com/xwork/java/Runner/VehicleRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../constructor-chaining-init/src/com/xwork/constructor/store/Market.java" beforeDir="false" afterPath="$PROJECT_DIR$/../constructor-chaining-init/src/com/xwork/constructor/store/Market.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/RND.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../example/RND.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/src/com/xwork/java/DayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../example/src/com/xwork/java/DayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/src/com/xwork/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../example/src/com/xwork/java/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/src/com/xwork/java/PersonRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../example/src/com/xwork/java/PersonRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/src/com/xwork/java/RNDRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../example/src/com/xwork/java/RNDRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-casting/src/com/xwork/casting/internal/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-casting/src/com/xwork/casting/internal/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-casting/src/com/xwork/casting/internal/Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-casting/src/com/xwork/casting/internal/Water.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xwork/jdbc/CollegeRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xwork/jdbc/LibraryRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xwork/jdbc/runnersss/LibraryRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-application/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-application/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc-application/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-application/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-application/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-application/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-applicatons/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-applicatons/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-applicatons/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-applicatons/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-applicatons/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-appps/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc-appps/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-appps/src/main/java/com/xwork/jdbcapp/runner/BankRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc-appps/src/main/java/com/xwork/jdbcapp/runner/BankRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-appps/src/main/java/com/xwork/jdbcapp/runner/StudentsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc-appps/src/main/java/com/xwork/jdbcapp/runner/StudentsRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-apps/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc-apps/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-apps/src/main/java/com/xworkz/jdbcapplication/runner/CalenderRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc-apps/src/main/java/com/xworkz/jdbcapplication/runner/CalenderRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-apps/src/main/java/com/xworkz/jdbcapplication/runner/EmailRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc-apps/src/main/java/com/xworkz/jdbcapplication/runner/EmailRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-apps/src/main/java/com/xworkz/jdbcapplication/runner/EventsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc-apps/src/main/java/com/xworkz/jdbcapplication/runner/EventsRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-apps/src/main/java/com/xworkz/jdbcapplication/runner/UniversityRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc-apps/src/main/java/com/xworkz/jdbcapplication/runner/UniversityRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kavya/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kavya/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/book/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/collectionofbooks/CollectionOfBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/collectionofbooks/CollectionOfBooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/collegelibrary/CollegeLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/collegelibrary/CollegeLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/BookByAuthorNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/BookByAuthorNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/BookByPriceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/BookByPriceNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/BookNameByidNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/BookNameByidNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/DeleteBookByIdNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/DeleteBookByIdNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/IdByBookNameNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/IdByBookNameNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/IdNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/IdNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/UpdateBookAuthorByNameNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/UpdateBookAuthorByNameNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/runner/LibraryRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/runner/LibraryRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stu-managements/src/com/xwork/calendar/EventType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stu-managements/src/com/xwork/calendar/EventType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../students-management/src/Runner/BankAccountRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management/src/Runner/BankAccountRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../students-management/src/Runner/CarRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management/src/Runner/CarRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../students-management/src/Runner/EmployeeRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management/src/Runner/EmployeeRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../students-management/src/Runner/StudentRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management/src/Runner/StudentRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../students-management/src/com/xwork/studentsapp/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management/src/com/xwork/studentsapp/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../students-management/src/com/xwork/studentsapp/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management/src/com/xwork/studentsapp/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../students-management/src/com/xwork/studentsapp/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/../students-management/src/com/xwork/studentsapp/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-management/src/com/xworkz/userapp/CanaraBankBangalore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-management/src/com/xworkz/userapp/CanaraBankBangalore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-management/src/com/xworkz/userapp/card/BobBankBangalore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-management/src/com/xworkz/userapp/card/BobBankBangalore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-management/src/com/xworkz/userapp/card/CanaraBankImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-management/src/com/xworkz/userapp/card/CanaraBankImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-management/src/com/xworkz/userapp/card/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-management/src/com/xworkz/userapp/card/Card.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2qR1pLmpD5zABNJQv3skCugPRhN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CollegeRunner.executor": "Run",
+    "Application.HospitalRunner.executor": "Run",
+    "Application.InstituteRunner.executor": "Run",
+    "Application.LibraryRunner.executor": "Run",
+    "Application.RetriveByAggregate.executor": "Run",
+    "Application.RetriveRunner.executor": "Run",
+    "Application.RetrivesRunner.executor": "Run",
+    "Application.RetrivessByAddress.executor": "Run",
+    "Application.RetrivessByFeilds.executor": "Run",
+    "Application.RetrivessById.executor": "Run",
+    "Application.RetrivessByName.executor": "Run",
+    "Application.RetrivessRunner.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60733c19-bca9-4793-b29d-8a392f6d2cdf" name="Changes" comment="" />
+      <created>1734610761563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734610761563</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

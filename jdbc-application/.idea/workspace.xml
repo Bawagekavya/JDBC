@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b9c80f2-2b14-43a9-9c46-f7fcdab64bc2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BackupProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackupProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackupProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackupProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackupProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackupProject/BackupProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackupProject/src/com/xworkz/backupproject/runner/BottleRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackupProject/src/com/xworkz/backupproject/things/Bottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bhagya/java-6ways-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Casting/Casting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructor-Chaining/Constructor-Chaining.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructor-Chaining/src/com/xwork/constructor/MetroTrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructor-Chaining/src/com/xwork/constructor/SubUrbanTrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreJava/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreJava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreJava/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreJava/CoreJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreJava/src/com/xwork/practise/data/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreJava/src/com/xwork/practise/data/Sandal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreJava/src/com/xwork/practise/data/SideDish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreJava/src/com/xwork/practise/store/MarketRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreJava/src/com/xwork/practise/store/MarketStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreJava/src/com/xwork/practise/store/SandalRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreJava/src/com/xwork/practise/store/SandalStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreJava/src/com/xwork/practise/store/SideDishRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoreJava/src/com/xwork/practise/store/SideDishStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/BlockRunner/GunRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/Final/MetroTrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/Final/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/Final/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/FinalRunner/SweetRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/chaining/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/chaining/CountryRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/chaining/District.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/chaining/DistrictRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/src/com/xwork/java/chaining/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Casting-example/Java-Casting-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Casting-example/src/com/xwork/java/external/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jyoti/Jyoti.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sukanya/Sukanya.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToString-and-Equals/ToString-and-Equals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToString-and-Equals/src/com/xworkz/tostringequals/Internal/Kettle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../account-management-system/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../account-management-system/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../account-management-system/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../account-management-system/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../account-management-system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../account-management-system/account-management-system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../account-management-system/src/com/xworkz/account/AccountRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../account-management-system/src/com/xworkz/account/accountapp/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../account-management-system/src/com/xworkz/account/current/CurrentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../account-management-system/src/com/xworkz/account/savings/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calender-app/calender-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calender-app/lib/lombok-1.18.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calender-app/src/com/xworkz/calanderapp/event/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chaining-constuctor/chaining-constuctor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collection-structure/.idea/collection-structure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-structure/src/com/xwork/runner/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-abstraction-interface and implements/com-abstraction-interface and implements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-abstraction-interfaceExample/com-abstraction-interfaceExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-abstraction-interfaces/com-abstraction-interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-abstraction-interfaces/src/Runner/CricketRuleRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-customException-example/com-customException-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-customException-example/src/com/xwork/method/stringRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-example-interface/com-example-interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-example-interface/src/com/xwork/java/Runner/VehicleRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com-interface-example/com-interface-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.abstraction.example/com.abstraction.example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.xworkz.java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.xworkz.java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.xworkz.java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.xworkz.java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.xworkz.java/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../constructor-chaining-init/constructor-chaining-init.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../constructor-chaining-init/src/com/xwork/constructor/store/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/RND.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/src/com/xwork/java/DayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/src/com/xwork/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/src/com/xwork/java/PersonRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/src/com/xwork/java/RNDRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../excep-management/excep-management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-abstract-example/java-abstract-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-casting/java-casting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-casting/src/com/xwork/casting/internal/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-casting/src/com/xwork/casting/internal/Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-app/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-app/src/main/java/com/xwork/jdbc/CollegeRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-app/src/main/java/com/xwork/jdbc/LibraryRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-app/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-app/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-appps/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-appps/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-appps/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-appps/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-appps/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-appps/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-appps/src/main/java/com/xwork/jdbcapp/runner/BankRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-appps/src/main/java/com/xwork/jdbcapp/runner/StudentsRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-appps/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-appps/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-apps/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-apps/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-apps/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-apps/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-apps/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-apps/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-apps/src/main/java/com/xworkz/jdbcapplication/runner/CalenderRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-apps/src/main/java/com/xworkz/jdbcapplication/runner/EmailRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-apps/src/main/java/com/xworkz/jdbcapplication/runner/EventsRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-apps/src/main/java/com/xworkz/jdbcapplication/runner/UniversityRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-apps/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-apps/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/java-inheritance-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/Bulb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/BulkyMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/Bull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/CattleMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/Farmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/Halwa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/Hen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/Meat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/MuscularMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/ShowRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/data/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/runner/MarketRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/runner/MeatRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/runner/NameRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/runner/PetRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kavya/src/com/xwork/practise/runner/ShopRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib-book-management/lib-book-management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/collectionofbooks/CollectionOfBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/collegelibrary/CollegeLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/BookByAuthorNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/BookByPriceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/BookNameByidNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/DeleteBookByIdNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/IdByBookNameNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/IdNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/exception/UpdateBookAuthorByNameNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib-book-management/src/com/xworkz/libbookapp/runner/LibraryRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stu-management/stu-management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stu-managements/src/com/xwork/calendar/EventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stu-managements/stu-managements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student-management/student-management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students-management/src/Runner/BankAccountRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students-management/src/Runner/CarRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students-management/src/Runner/EmployeeRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students-management/src/Runner/StudentRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students-management/src/com/xwork/studentsapp/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students-management/src/com/xwork/studentsapp/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students-management/src/com/xwork/studentsapp/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students-management/students-management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-management/src/com/xworkz/userapp/CanaraBankBangalore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-management/src/com/xworkz/userapp/card/BobBankBangalore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-management/src/com/xworkz/userapp/card/CanaraBankImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-management/src/com/xworkz/userapp/card/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-management/user-management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xworkzProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xworkzProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xworkzProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xworkzProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xworkzProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xworkzProject/src/com/Store/bike/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xworkzProject/src/com/Store/bike/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xworkzProject/src/com/Store/bike/Dam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xworkzProject/src/com/Store/bike/River.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xworkzProject/src/com/Store/bike/Sweet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xworkzProject/src/com/xwork/plant/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xworkzProject/src/com/xwork/plant/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xworkzProject/src/com/xwork/plant/Submarine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xworkzProject/src/com/xworkz/practise/data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xworkzProject/xworkzProject.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2qRSKSWJyjB4lFMOhE8Q7SyFBUd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b9c80f2-2b14-43a9-9c46-f7fcdab64bc2" name="Changes" comment="" />
+      <created>1734623833655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734623833655</updated>
+    </task>
+    <servers />
+  </component>
+</project>
